@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 -->
 
-- Student 👓
+- Always learning 😎
 - Interested in Web Dev and Neural Networks 🎨
 - See some of my projects 👇
