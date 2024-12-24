@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 -->
 
 - Always learning 😎
-- Interested in Web Dev and Neural Networks 🎨
+- Interested in everything (but currently exploring Web Dev and Neural Networks) 🎨
 - See some of my projects 👇
