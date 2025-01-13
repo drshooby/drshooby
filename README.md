@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 
 - Always learning 😎
 - _Enjoy the process, but enjoy the awesome product more_
-- See some of my projects 👇
 
 My site: [davidshubov.com](https://www.davidshubov.com/)
+
+⬇ Check out my projects ⬇
