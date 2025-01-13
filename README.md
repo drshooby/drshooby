@@ -12,5 +12,3 @@ Here are some ideas to get you started:
 
 My site: [davidshubov.com](https://www.davidshubov.com/)
 ___
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&font=Roboto)
