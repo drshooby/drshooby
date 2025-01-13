@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - _Enjoy the process, but enjoy the awesome product more_
 
 My site: [davidshubov.com](https://www.davidshubov.com/)
-
-⬇ Check out my projects ⬇
+___
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
