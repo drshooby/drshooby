@@ -6,5 +6,3 @@
 Here are some ideas to get you started:
 
 -->
-[davidshubov.com](https://www.davidshubov.com/)
-___
